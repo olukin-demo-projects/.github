@@ -26,7 +26,7 @@ Here you can find some of my demo projects.
 ## Rock Band Landing Page
 https://github.com/olukin-demo-projects/lotoplay?tab=readme-ov-file#full-page
 
-![Full Page](spec/gifs/page.gif)
+![Full Page](lotoplay.gif)
 
 <a name="advent-js"></a>
 ## AdventJS challenges
