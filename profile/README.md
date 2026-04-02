@@ -4,6 +4,8 @@ Here you can find some of my demo projects.
 
 # Demos
 
+1. [Rock Band Landing Page](#grim-ta-grіm)
+
 1. [AdventJS challenges](#advent-js)
     
 1. [Casino Reviews Page](#casino-reviews-page)
@@ -19,6 +21,12 @@ Here you can find some of my demo projects.
     * [Demo <img src="902123.webp" width="16" height="16" alt="external" />](https://llamerr-demo-projects.github.io/files-tree/)
 
 1. [Minesweeper Game](#minesweeper-game)    
+
+<a name="grim-ta-grіm"></a>
+## Rock Band Landing Page
+https://github.com/olukin-demo-projects/lotoplay?tab=readme-ov-file#full-page
+
+![Full Page](spec/gifs/page.gif)
 
 <a name="advent-js"></a>
 ## AdventJS challenges
